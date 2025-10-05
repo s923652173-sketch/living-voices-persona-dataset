@@ -1,0 +1,2 @@
+persona,processing_date,documents_count,chunks_count,total_words,average_chunk_size,time_periods_covered,content_categories
+Queen Elizabeth II,2025-10-04T14:01:53.783747,20,313,121201,480.1693290734824,"['1950s', '1970s', '2000s', '2020s', '1940s-1960s', '1952-2022', '2010s', '1990s']","['historical_event', 'biography', 'political', 'political_figures', 'royal_symbols', 'family', 'tradition', 'general']"

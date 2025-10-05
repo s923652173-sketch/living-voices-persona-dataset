@@ -1,0 +1,2 @@
+dataset_name,author,author_id,total_poems,total_documents,total_chunks,language,time_period,dynasty,extraction_date,processing_date,source_database,project
+Du Fu Poetry Collection,杜甫 (Du Fu),17270,1496,1496,3449,Classical Chinese,712-770 CE,Tang Dynasty,2025-10-04T14:31:18.538790,2025-10-04T14:32:58.839398,CNKGraph.Writings.xml,Living Voices - RAG-based Dialogue System

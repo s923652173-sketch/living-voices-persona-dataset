@@ -1,0 +1,2 @@
+dataset_name,validation_date,status,issues,warnings,statistics.total_documents,statistics.total_chunks,statistics.total_words,statistics.total_characters,statistics.total_tokens,statistics.document_types.poem,statistics.categories.general,statistics.chunk_types.unknown,summary.total_issues,summary.total_warnings,summary.validation_passed
+Du Fu,2025-10-04T15:23:29.724336,passed,[],[],1496,3449,0,0,558867,1496,1496,3449,0,0,True
