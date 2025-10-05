@@ -1,0 +1,2 @@
+dataset,validation_date,total_documents,total_chunks,document_types.biography,document_types.related_articles,document_types.speech_supplement,newly_added.documents,newly_added.chunks,newly_added.titles,coverage.raw_sources_total,coverage.processed_documents,coverage.coverage_percentage
+queen_elizabeth_ii,2025-10-04T15:42:35.686026,22,341,1,19,2,2,28,"['Elizabeth II', 'COVID-19 pandemic in the United Kingdom']",23,22,95.65

@@ -1,0 +1,2 @@
+collection_date,total_sources,main_biography.words,main_biography.characters,related_articles.count,related_articles.total_words,totals.words,totals.characters,totals.estimated_tokens,status.target_tokens,status.current_tokens,status.progress_percent,status.tokens_needed
+2025-10-04T14:17:54.534201,25,7295,45757,24,157120,164415,1047519,126473,100000,126473,126.47,0

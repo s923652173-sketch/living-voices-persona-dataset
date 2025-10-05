@@ -1,0 +1,27 @@
+source,title,url,timestamp,status,word_count
+Wikipedia Main Article,Elizabeth I,https://en.wikipedia.org/wiki/Elizabeth_I,2025-10-04T13:36:30.589806,success,10989.0
+Wikipedia Related Article,Coronation of Elizabeth II,https://en.wikipedia.org/wiki/Coronation_of_Elizabeth_II,2025-10-04T13:36:34.671763,success,5390.0
+Wikipedia Related Article,Death and state funeral of Elizabeth II,,2025-10-04T13:36:36.708739,not_found,
+Wikipedia Related Article,Silver Jubilee of Elizabeth II,https://en.wikipedia.org/wiki/Silver_Jubilee_of_Elizabeth_II,2025-10-04T13:36:40.554094,success,2036.0
+Wikipedia Related Article,Golden Jubilee of Elizabeth II,https://en.wikipedia.org/wiki/Golden_Jubilee_of_Elizabeth_II,2025-10-04T13:36:44.252553,success,4499.0
+Wikipedia Related Article,Diamond Jubilee of Elizabeth II,https://en.wikipedia.org/wiki/Diamond_Jubilee_of_Elizabeth_II,2025-10-04T13:36:48.443725,success,9428.0
+Wikipedia Related Article,Platinum Jubilee of Elizabeth II,https://en.wikipedia.org/wiki/Platinum_Jubilee_of_Elizabeth_II,2025-10-04T13:36:53.773076,success,18807.0
+Wikipedia Related Article,Royal Christmas message,https://en.wikipedia.org/wiki/Royal_Christmas_message,2025-10-04T13:36:57.343466,success,1846.0
+Wikipedia Related Article,Flags of Elizabeth II,https://en.wikipedia.org/wiki/Flags_of_Elizabeth_II,2025-10-04T13:37:01.027083,success,2102.0
+Wikipedia Additional Article,Death and state funeral of Elizabeth II,https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Elizabeth_II,2025-10-04T13:41:22.321322,success,11014.0
+Wikipedia Additional Article,Royal Family Order of Elizabeth II,https://en.wikipedia.org/wiki/Royal_Family_Order_of_Elizabeth_II,2025-10-04T13:41:25.878599,success,398.0
+Wikipedia Additional Article,Annus horribilis,https://en.wikipedia.org/wiki/Annus_horribilis,2025-10-04T13:41:29.246833,success,1192.0
+Wikipedia Additional Article,Wedding of Princess Elizabeth and Philip Mountbatten,https://en.wikipedia.org/wiki/Wedding_of_Princess_Elizabeth_and_Philip_Mountbatten,2025-10-04T13:41:33.215341,success,2865.0
+Wikipedia Additional Article,List of British royal residences,https://en.wikipedia.org/wiki/List_of_British_royal_residences,2025-10-04T13:41:36.994936,success,218.0
+Wikipedia Additional Article,"Prince Philip, Duke of Edinburgh","https://en.wikipedia.org/wiki/Prince_Philip,_Duke_of_Edinburgh",2025-10-04T13:41:41.311166,success,7501.0
+Wikipedia Additional Article,George VI,,2025-10-04T13:52:01.530072,not_found,
+Wikipedia Additional Article,British royal family,https://en.wikipedia.org/wiki/British_royal_family,2025-10-04T13:52:07.020326,success,2883.0
+Wikipedia Additional Article,Commonwealth of Nations,https://en.wikipedia.org/wiki/Commonwealth_of_Nations,2025-10-04T13:52:12.039956,success,9171.0
+Wikipedia Additional Article,Monarchy of the United Kingdom,,2025-10-04T13:52:13.996563,not_found,
+Wikipedia Additional Article,Cultural depictions of Elizabeth II,,2025-10-04T13:52:15.878764,not_found,
+Wikipedia Additional Article,George V,https://en.wikipedia.org/wiki/George_V,2025-10-04T13:52:47.046813,success,6624.0
+Wikipedia Additional Article,Monarchy of the United Kingdom,,2025-10-04T13:52:48.925267,not_found,
+Wikipedia Additional Article,Jewels of Elizabeth II,https://en.wikipedia.org/wiki/Jewels_of_Elizabeth_II,2025-10-04T13:52:52.921590,success,7536.0
+Wikipedia Additional Article,Royal family,https://en.wikipedia.org/wiki/Royal_family,2025-10-04T13:52:56.597264,success,1409.0
+Wikipedia Additional Article,Winston Churchill,https://en.wikipedia.org/wiki/Winston_Churchill,2025-10-04T13:53:00.692040,success,15890.0
+Wikipedia Additional Article,Margaret Thatcher,,2025-10-04T13:53:02.541314,not_found,

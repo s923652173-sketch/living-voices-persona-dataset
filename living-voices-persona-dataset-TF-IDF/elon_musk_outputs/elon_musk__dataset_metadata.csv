@@ -1,0 +1,2 @@
+dataset_name,person,processing_date,total_documents,total_chunks,total_words,total_characters,estimated_tokens,document_types.biography,document_types.context,document_types.supplementary,categories.main_biography,categories.general,categories.spacex,categories.tesla,categories.neuralink,categories.boring,categories.twitter,categories.interview,categories.philosophy,categories.vision,categories.ai,categories.context,categories.technology,categories.strategy
+Elon Musk,Elon Musk,2025-10-04T15:18:01.806883,48,96,307558,912455,1003700,1,24,23,1,24,2,4,1,1,1,2,1,2,1,3,2,3
